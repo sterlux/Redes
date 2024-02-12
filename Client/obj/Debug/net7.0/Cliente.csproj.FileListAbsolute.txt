@@ -1,0 +1,15 @@
+/Users/sterlux/dev/redes/Redes/Cliente/bin/Debug/net7.0/Cliente
+/Users/sterlux/dev/redes/Redes/Cliente/bin/Debug/net7.0/Cliente.deps.json
+/Users/sterlux/dev/redes/Redes/Cliente/bin/Debug/net7.0/Cliente.runtimeconfig.json
+/Users/sterlux/dev/redes/Redes/Cliente/bin/Debug/net7.0/Cliente.dll
+/Users/sterlux/dev/redes/Redes/Cliente/bin/Debug/net7.0/Cliente.pdb
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.csproj.AssemblyReference.cache
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.AssemblyInfoInputs.cache
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.AssemblyInfo.cs
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.csproj.CoreCompileInputs.cache
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.dll
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/refint/Cliente.dll
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.pdb
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/Cliente.genruntimeconfig.cache
+/Users/sterlux/dev/redes/Redes/Cliente/obj/Debug/net7.0/ref/Cliente.dll

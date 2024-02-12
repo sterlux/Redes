@@ -1,0 +1,15 @@
+/Users/sterlux/dev/redes/Redes/Server/bin/Debug/net7.0/Server
+/Users/sterlux/dev/redes/Redes/Server/bin/Debug/net7.0/Server.deps.json
+/Users/sterlux/dev/redes/Redes/Server/bin/Debug/net7.0/Server.runtimeconfig.json
+/Users/sterlux/dev/redes/Redes/Server/bin/Debug/net7.0/Server.dll
+/Users/sterlux/dev/redes/Redes/Server/bin/Debug/net7.0/Server.pdb
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.csproj.AssemblyReference.cache
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.AssemblyInfoInputs.cache
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.AssemblyInfo.cs
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.csproj.CoreCompileInputs.cache
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.dll
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/refint/Server.dll
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.pdb
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/Server.genruntimeconfig.cache
+/Users/sterlux/dev/redes/Redes/Server/obj/Debug/net7.0/ref/Server.dll
